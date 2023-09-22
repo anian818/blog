@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Yolo'Blog',
+  title: 'Yolo Blog',
   author: '追马',
   email: '818@888.email.cn',
   link: 'https://blog-iota-brown.vercel.app/',
-  description: 'Yolo'Blog',
+  description: 'Yolo Blog',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
